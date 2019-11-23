@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/rockSmall.obj-a95818ef96ad1054e98182c31678b5aa.mesh"
+
+[deps]
+
+files=[ "res://.import/rockSmall.obj-a95818ef96ad1054e98182c31678b5aa.mesh" ]
+
+source_file="res://Assets/fantasy-town-kit-1.0/Models/OBJ format/rockSmall.obj"
+dest_files=[ "res://.import/rockSmall.obj-a95818ef96ad1054e98182c31678b5aa.mesh", "res://.import/rockSmall.obj-a95818ef96ad1054e98182c31678b5aa.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/roadCurb.obj-7ff61c0b25ad572466749b784ad15d95.mesh"
+
+[deps]
+
+files=[ "res://.import/roadCurb.obj-7ff61c0b25ad572466749b784ad15d95.mesh" ]
+
+source_file="res://Assets/fantasy-town-kit-1.0/Models/OBJ format/roadCurb.obj"
+dest_files=[ "res://.import/roadCurb.obj-7ff61c0b25ad572466749b784ad15d95.mesh", "res://.import/roadCurb.obj-7ff61c0b25ad572466749b784ad15d95.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

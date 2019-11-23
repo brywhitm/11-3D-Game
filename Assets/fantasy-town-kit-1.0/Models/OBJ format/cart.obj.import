@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/cart.obj-e1f2988c9c53c0d259ccae2e0154d4c5.mesh"
+
+[deps]
+
+files=[ "res://.import/cart.obj-e1f2988c9c53c0d259ccae2e0154d4c5.mesh" ]
+
+source_file="res://Assets/fantasy-town-kit-1.0/Models/OBJ format/cart.obj"
+dest_files=[ "res://.import/cart.obj-e1f2988c9c53c0d259ccae2e0154d4c5.mesh", "res://.import/cart.obj-e1f2988c9c53c0d259ccae2e0154d4c5.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

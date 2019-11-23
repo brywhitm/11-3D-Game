@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/tree.obj-52f42c9d3b2d69faa3daeae38ee6796b.mesh"
+
+[deps]
+
+files=[ "res://.import/tree.obj-52f42c9d3b2d69faa3daeae38ee6796b.mesh" ]
+
+source_file="res://Assets/fantasy-town-kit-1.0/Models/OBJ format/tree.obj"
+dest_files=[ "res://.import/tree.obj-52f42c9d3b2d69faa3daeae38ee6796b.mesh", "res://.import/tree.obj-52f42c9d3b2d69faa3daeae38ee6796b.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/wallWoodBlock.obj-4ac516d71a3e7e4e7c4822560a7cfa6a.mesh"
+
+[deps]
+
+files=[ "res://.import/wallWoodBlock.obj-4ac516d71a3e7e4e7c4822560a7cfa6a.mesh" ]
+
+source_file="res://Assets/fantasy-town-kit-1.0/Models/OBJ format/wallWoodBlock.obj"
+dest_files=[ "res://.import/wallWoodBlock.obj-4ac516d71a3e7e4e7c4822560a7cfa6a.mesh", "res://.import/wallWoodBlock.obj-4ac516d71a3e7e4e7c4822560a7cfa6a.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/wallBroken.obj-49313173faf53f2caf2ad806e2ba10ad.mesh"
+
+[deps]
+
+files=[ "res://.import/wallBroken.obj-49313173faf53f2caf2ad806e2ba10ad.mesh" ]
+
+source_file="res://Assets/fantasy-town-kit-1.0/Models/OBJ format/wallBroken.obj"
+dest_files=[ "res://.import/wallBroken.obj-49313173faf53f2caf2ad806e2ba10ad.mesh", "res://.import/wallBroken.obj-49313173faf53f2caf2ad806e2ba10ad.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

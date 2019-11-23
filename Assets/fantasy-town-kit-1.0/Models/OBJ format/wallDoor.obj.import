@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/wallDoor.obj-6715cf33237a03a617073de62043fe3d.mesh"
+
+[deps]
+
+files=[ "res://.import/wallDoor.obj-6715cf33237a03a617073de62043fe3d.mesh" ]
+
+source_file="res://Assets/fantasy-town-kit-1.0/Models/OBJ format/wallDoor.obj"
+dest_files=[ "res://.import/wallDoor.obj-6715cf33237a03a617073de62043fe3d.mesh", "res://.import/wallDoor.obj-6715cf33237a03a617073de62043fe3d.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

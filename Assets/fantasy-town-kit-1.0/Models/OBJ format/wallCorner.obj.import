@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/wallCorner.obj-cf59e50d998f9a954849a9f696e52123.mesh"
+
+[deps]
+
+files=[ "res://.import/wallCorner.obj-cf59e50d998f9a954849a9f696e52123.mesh" ]
+
+source_file="res://Assets/fantasy-town-kit-1.0/Models/OBJ format/wallCorner.obj"
+dest_files=[ "res://.import/wallCorner.obj-cf59e50d998f9a954849a9f696e52123.mesh", "res://.import/wallCorner.obj-cf59e50d998f9a954849a9f696e52123.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

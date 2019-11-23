@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/wallDetailCross.obj-44bfc46131b037dd5177e13383db4aa5.mesh"
+
+[deps]
+
+files=[ "res://.import/wallDetailCross.obj-44bfc46131b037dd5177e13383db4aa5.mesh" ]
+
+source_file="res://Assets/fantasy-town-kit-1.0/Models/OBJ format/wallDetailCross.obj"
+dest_files=[ "res://.import/wallDetailCross.obj-44bfc46131b037dd5177e13383db4aa5.mesh", "res://.import/wallDetailCross.obj-44bfc46131b037dd5177e13383db4aa5.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

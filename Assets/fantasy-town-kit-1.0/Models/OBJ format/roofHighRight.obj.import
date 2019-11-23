@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/roofHighRight.obj-528d526bb32a96f46ba98fb08d5b9fed.mesh"
+
+[deps]
+
+files=[ "res://.import/roofHighRight.obj-528d526bb32a96f46ba98fb08d5b9fed.mesh" ]
+
+source_file="res://Assets/fantasy-town-kit-1.0/Models/OBJ format/roofHighRight.obj"
+dest_files=[ "res://.import/roofHighRight.obj-528d526bb32a96f46ba98fb08d5b9fed.mesh", "res://.import/roofHighRight.obj-528d526bb32a96f46ba98fb08d5b9fed.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

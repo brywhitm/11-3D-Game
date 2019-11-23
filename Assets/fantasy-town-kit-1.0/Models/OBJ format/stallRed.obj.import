@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/stallRed.obj-c48ea2c8d51cdac318845ebcedb1426b.mesh"
+
+[deps]
+
+files=[ "res://.import/stallRed.obj-c48ea2c8d51cdac318845ebcedb1426b.mesh" ]
+
+source_file="res://Assets/fantasy-town-kit-1.0/Models/OBJ format/stallRed.obj"
+dest_files=[ "res://.import/stallRed.obj-c48ea2c8d51cdac318845ebcedb1426b.mesh", "res://.import/stallRed.obj-c48ea2c8d51cdac318845ebcedb1426b.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

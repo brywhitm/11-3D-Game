@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/wallWoodCurved.obj-0e6e59995d3fa11d5a78158177110c41.mesh"
+
+[deps]
+
+files=[ "res://.import/wallWoodCurved.obj-0e6e59995d3fa11d5a78158177110c41.mesh" ]
+
+source_file="res://Assets/fantasy-town-kit-1.0/Models/OBJ format/wallWoodCurved.obj"
+dest_files=[ "res://.import/wallWoodCurved.obj-0e6e59995d3fa11d5a78158177110c41.mesh", "res://.import/wallWoodCurved.obj-0e6e59995d3fa11d5a78158177110c41.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

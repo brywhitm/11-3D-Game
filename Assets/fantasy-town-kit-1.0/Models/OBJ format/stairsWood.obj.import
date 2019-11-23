@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/stairsWood.obj-bbf26bfa20d54f4e7eb7c3617f12e4f4.mesh"
+
+[deps]
+
+files=[ "res://.import/stairsWood.obj-bbf26bfa20d54f4e7eb7c3617f12e4f4.mesh" ]
+
+source_file="res://Assets/fantasy-town-kit-1.0/Models/OBJ format/stairsWood.obj"
+dest_files=[ "res://.import/stairsWood.obj-bbf26bfa20d54f4e7eb7c3617f12e4f4.mesh", "res://.import/stairsWood.obj-bbf26bfa20d54f4e7eb7c3617f12e4f4.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

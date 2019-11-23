@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/treeCrooked.obj-aceacbe7da43a37d56033a58d73f0a67.mesh"
+
+[deps]
+
+files=[ "res://.import/treeCrooked.obj-aceacbe7da43a37d56033a58d73f0a67.mesh" ]
+
+source_file="res://Assets/fantasy-town-kit-1.0/Models/OBJ format/treeCrooked.obj"
+dest_files=[ "res://.import/treeCrooked.obj-aceacbe7da43a37d56033a58d73f0a67.mesh", "res://.import/treeCrooked.obj-aceacbe7da43a37d56033a58d73f0a67.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

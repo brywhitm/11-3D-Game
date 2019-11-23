@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/fenceBroken.obj-43f515c8719db0b5e622988d9d68095e.mesh"
+
+[deps]
+
+files=[ "res://.import/fenceBroken.obj-43f515c8719db0b5e622988d9d68095e.mesh" ]
+
+source_file="res://Assets/fantasy-town-kit-1.0/Models/OBJ format/fenceBroken.obj"
+dest_files=[ "res://.import/fenceBroken.obj-43f515c8719db0b5e622988d9d68095e.mesh", "res://.import/fenceBroken.obj-43f515c8719db0b5e622988d9d68095e.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/wallWoodDoorwaySquareWideCurved.obj-cd96c7e66e598307a5e1a3b7db816531.mesh"
+
+[deps]
+
+files=[ "res://.import/wallWoodDoorwaySquareWideCurved.obj-cd96c7e66e598307a5e1a3b7db816531.mesh" ]
+
+source_file="res://Assets/fantasy-town-kit-1.0/Models/OBJ format/wallWoodDoorwaySquareWideCurved.obj"
+dest_files=[ "res://.import/wallWoodDoorwaySquareWideCurved.obj-cd96c7e66e598307a5e1a3b7db816531.mesh", "res://.import/wallWoodDoorwaySquareWideCurved.obj-cd96c7e66e598307a5e1a3b7db816531.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

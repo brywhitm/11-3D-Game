@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/stairsWoodHandrail.obj-a79927797429ac2fe60a01a986bad1d3.mesh"
+
+[deps]
+
+files=[ "res://.import/stairsWoodHandrail.obj-a79927797429ac2fe60a01a986bad1d3.mesh" ]
+
+source_file="res://Assets/fantasy-town-kit-1.0/Models/OBJ format/stairsWoodHandrail.obj"
+dest_files=[ "res://.import/stairsWoodHandrail.obj-a79927797429ac2fe60a01a986bad1d3.mesh", "res://.import/stairsWoodHandrail.obj-a79927797429ac2fe60a01a986bad1d3.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

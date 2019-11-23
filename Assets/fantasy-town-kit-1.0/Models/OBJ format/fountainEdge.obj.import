@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/fountainEdge.obj-2df53ace91ce668de2fc6a1db5f7fd96.mesh"
+
+[deps]
+
+files=[ "res://.import/fountainEdge.obj-2df53ace91ce668de2fc6a1db5f7fd96.mesh" ]
+
+source_file="res://Assets/fantasy-town-kit-1.0/Models/OBJ format/fountainEdge.obj"
+dest_files=[ "res://.import/fountainEdge.obj-2df53ace91ce668de2fc6a1db5f7fd96.mesh", "res://.import/fountainEdge.obj-2df53ace91ce668de2fc6a1db5f7fd96.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

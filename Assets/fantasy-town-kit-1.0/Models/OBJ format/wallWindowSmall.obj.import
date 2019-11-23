@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/wallWindowSmall.obj-61d63296a4f888d19fd25f75d9bddf9b.mesh"
+
+[deps]
+
+files=[ "res://.import/wallWindowSmall.obj-61d63296a4f888d19fd25f75d9bddf9b.mesh" ]
+
+source_file="res://Assets/fantasy-town-kit-1.0/Models/OBJ format/wallWindowSmall.obj"
+dest_files=[ "res://.import/wallWindowSmall.obj-61d63296a4f888d19fd25f75d9bddf9b.mesh", "res://.import/wallWindowSmall.obj-61d63296a4f888d19fd25f75d9bddf9b.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

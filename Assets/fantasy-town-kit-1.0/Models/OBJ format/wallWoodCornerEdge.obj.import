@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/wallWoodCornerEdge.obj-d853b384448925c2a86dd6dcac5d268c.mesh"
+
+[deps]
+
+files=[ "res://.import/wallWoodCornerEdge.obj-d853b384448925c2a86dd6dcac5d268c.mesh" ]
+
+source_file="res://Assets/fantasy-town-kit-1.0/Models/OBJ format/wallWoodCornerEdge.obj"
+dest_files=[ "res://.import/wallWoodCornerEdge.obj-d853b384448925c2a86dd6dcac5d268c.mesh", "res://.import/wallWoodCornerEdge.obj-d853b384448925c2a86dd6dcac5d268c.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

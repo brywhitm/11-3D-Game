@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/roofPoint.obj-c7f9b5b33c01439aec9d1d515d376379.mesh"
+
+[deps]
+
+files=[ "res://.import/roofPoint.obj-c7f9b5b33c01439aec9d1d515d376379.mesh" ]
+
+source_file="res://Assets/fantasy-town-kit-1.0/Models/OBJ format/roofPoint.obj"
+dest_files=[ "res://.import/roofPoint.obj-c7f9b5b33c01439aec9d1d515d376379.mesh", "res://.import/roofPoint.obj-c7f9b5b33c01439aec9d1d515d376379.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

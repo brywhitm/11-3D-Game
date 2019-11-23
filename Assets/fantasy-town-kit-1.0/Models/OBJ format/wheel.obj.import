@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/wheel.obj-5f100c6011701b54bdb53e14bf2d6139.mesh"
+
+[deps]
+
+files=[ "res://.import/wheel.obj-5f100c6011701b54bdb53e14bf2d6139.mesh" ]
+
+source_file="res://Assets/fantasy-town-kit-1.0/Models/OBJ format/wheel.obj"
+dest_files=[ "res://.import/wheel.obj-5f100c6011701b54bdb53e14bf2d6139.mesh", "res://.import/wheel.obj-5f100c6011701b54bdb53e14bf2d6139.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

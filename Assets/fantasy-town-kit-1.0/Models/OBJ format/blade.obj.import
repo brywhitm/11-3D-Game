@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/blade.obj-8fe4837eb4cb874a6cc38529a0f8e141.mesh"
+
+[deps]
+
+files=[ "res://.import/blade.obj-8fe4837eb4cb874a6cc38529a0f8e141.mesh" ]
+
+source_file="res://Assets/fantasy-town-kit-1.0/Models/OBJ format/blade.obj"
+dest_files=[ "res://.import/blade.obj-8fe4837eb4cb874a6cc38529a0f8e141.mesh", "res://.import/blade.obj-8fe4837eb4cb874a6cc38529a0f8e141.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

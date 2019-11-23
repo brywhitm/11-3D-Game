@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/roofGableEnd.obj-5e8457fe8d96b83dcca58427e06ef7bc.mesh"
+
+[deps]
+
+files=[ "res://.import/roofGableEnd.obj-5e8457fe8d96b83dcca58427e06ef7bc.mesh" ]
+
+source_file="res://Assets/fantasy-town-kit-1.0/Models/OBJ format/roofGableEnd.obj"
+dest_files=[ "res://.import/roofGableEnd.obj-5e8457fe8d96b83dcca58427e06ef7bc.mesh", "res://.import/roofGableEnd.obj-5e8457fe8d96b83dcca58427e06ef7bc.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

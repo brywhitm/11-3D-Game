@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/roadEdgeSlope.obj-566f4517a60b78839bf7ae4ace672f6b.mesh"
+
+[deps]
+
+files=[ "res://.import/roadEdgeSlope.obj-566f4517a60b78839bf7ae4ace672f6b.mesh" ]
+
+source_file="res://Assets/fantasy-town-kit-1.0/Models/OBJ format/roadEdgeSlope.obj"
+dest_files=[ "res://.import/roadEdgeSlope.obj-566f4517a60b78839bf7ae4ace672f6b.mesh", "res://.import/roadEdgeSlope.obj-566f4517a60b78839bf7ae4ace672f6b.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

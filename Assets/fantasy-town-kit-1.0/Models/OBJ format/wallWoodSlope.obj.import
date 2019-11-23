@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/wallWoodSlope.obj-874dc6f497823b5fd046819c3c1ff344.mesh"
+
+[deps]
+
+files=[ "res://.import/wallWoodSlope.obj-874dc6f497823b5fd046819c3c1ff344.mesh" ]
+
+source_file="res://Assets/fantasy-town-kit-1.0/Models/OBJ format/wallWoodSlope.obj"
+dest_files=[ "res://.import/wallWoodSlope.obj-874dc6f497823b5fd046819c3c1ff344.mesh", "res://.import/wallWoodSlope.obj-874dc6f497823b5fd046819c3c1ff344.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

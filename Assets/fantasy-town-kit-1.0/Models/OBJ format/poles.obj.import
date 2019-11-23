@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/poles.obj-08db86cce593d2668a747f3a0639d0ba.mesh"
+
+[deps]
+
+files=[ "res://.import/poles.obj-08db86cce593d2668a747f3a0639d0ba.mesh" ]
+
+source_file="res://Assets/fantasy-town-kit-1.0/Models/OBJ format/poles.obj"
+dest_files=[ "res://.import/poles.obj-08db86cce593d2668a747f3a0639d0ba.mesh", "res://.import/poles.obj-08db86cce593d2668a747f3a0639d0ba.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

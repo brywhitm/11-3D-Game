@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/wallWoodCornerDiagonalHalf.obj-14adceccf3dc44dd3e0d6ad9336a4493.mesh"
+
+[deps]
+
+files=[ "res://.import/wallWoodCornerDiagonalHalf.obj-14adceccf3dc44dd3e0d6ad9336a4493.mesh" ]
+
+source_file="res://Assets/fantasy-town-kit-1.0/Models/OBJ format/wallWoodCornerDiagonalHalf.obj"
+dest_files=[ "res://.import/wallWoodCornerDiagonalHalf.obj-14adceccf3dc44dd3e0d6ad9336a4493.mesh", "res://.import/wallWoodCornerDiagonalHalf.obj-14adceccf3dc44dd3e0d6ad9336a4493.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true
