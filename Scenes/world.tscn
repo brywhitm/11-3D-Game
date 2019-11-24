@@ -461,6 +461,7 @@ margin_right = 401.475
 margin_bottom = 23.7432
 
 [node name="Bars" type="VBoxContainer" parent="Interface"]
+editor/display_folded = true
 anchor_top = 1.0
 anchor_bottom = 1.0
 margin_top = -53.0
