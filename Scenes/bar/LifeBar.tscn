@@ -1,0 +1,77 @@
+[gd_scene load_steps=8 format=2]
+
+[ext_resource path="res://Scenes/bar/bar.gd" type="Script" id=1]
+[ext_resource path="res://Scenes/bar/label_HP.png" type="Texture" id=2]
+[ext_resource path="res://Scenes/bar/bg.png" type="Texture" id=3]
+[ext_resource path="res://Scenes/bar/fill.png" type="Texture" id=4]
+[ext_resource path="res://Scenes/bar/texture_progress.gd" type="Script" id=5]
+
+[sub_resource type="Animation" id=1]
+resource_name = "SETUP"
+length = 0.01
+tracks/0/type = "value"
+tracks/0/path = NodePath("Count/Title:modulate")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/keys = {
+"times": PoolRealArray( 0 ),
+"transitions": PoolRealArray( 1 ),
+"update": 0,
+"values": [ Color( 1, 1, 1, 1 ) ]
+}
+
+[sub_resource type="Animation" id=2]
+length = 0.4
+
+[node name="LifeBar" type="HBoxContainer"]
+margin_left = 21.766
+margin_top = 34.0093
+margin_right = 571.766
+margin_bottom = 87.0093
+rect_scale = Vector2( 0.52, 0.68 )
+script = ExtResource( 1 )
+
+[node name="Count" type="NinePatchRect" parent="."]
+margin_right = 150.0
+margin_bottom = 53.0
+rect_min_size = Vector2( 150, 0 )
+
+[node name="Title" type="TextureRect" parent="Count"]
+anchor_top = 0.5
+anchor_bottom = 0.5
+margin_left = 5.69384
+margin_top = -20.8334
+margin_right = 54.6938
+margin_bottom = 19.1666
+texture = ExtResource( 2 )
+stretch_mode = 4
+
+[node name="Number" type="Label" parent="Count"]
+margin_left = 60.1615
+margin_top = 6.69175
+margin_right = 100.162
+margin_bottom = 20.6917
+rect_scale = Vector2( 2.38462, 2.94118 )
+text = "12/34"
+align = 1
+valign = 1
+
+[node name="TextureProgress" type="TextureProgress" parent="."]
+margin_left = 154.0
+margin_right = 550.0
+margin_bottom = 53.0
+max_value = 34.0
+value = 12.0
+texture_under = ExtResource( 3 )
+texture_progress = ExtResource( 4 )
+script = ExtResource( 5 )
+
+[node name="Tween" type="Tween" parent="."]
+
+[node name="AnimationPlayer" type="AnimationPlayer" parent="."]
+autoplay = "SETUP"
+anims/SETUP = SubResource( 1 )
+anims/shake = SubResource( 2 )
+[connection signal="maximum_changed" from="." to="TextureProgress" method="_on_Bar_maximum_changed"]
