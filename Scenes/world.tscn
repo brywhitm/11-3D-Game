@@ -437,7 +437,6 @@ mesh = SubResource( 36 )
 material/0 = null
 
 [node name="Interface" type="Control" parent="."]
-editor/display_folded = true
 margin_left = 470.546
 margin_top = 591.421
 margin_right = 470.546
@@ -461,7 +460,6 @@ margin_right = 401.475
 margin_bottom = 23.7432
 
 [node name="Bars" type="VBoxContainer" parent="Interface"]
-editor/display_folded = true
 anchor_top = 1.0
 anchor_bottom = 1.0
 margin_top = -53.0
@@ -474,6 +472,7 @@ margin_right = 550.0
 margin_bottom = 53.0
 rect_scale = Vector2( 1, 1 )
 [connection signal="experience_gained" from="FPSCharacter" to="Interface/ExperienceBar" method="_on_FPSCharacter_experience_gained"]
+[connection signal="health_changed" from="FPSCharacter" to="Interface/Bars/LifeBar" method="_on_FPSCharacter_health_changed"]
 [connection signal="health_changed" from="FPSCharacter" to="Interface" method="_on_FPSCharacter_health_changed"]
 [connection signal="health_changed" from="FPSCharacter" to="FPSCharacter/Health" method="_on_FPSCharacter_health_changed"]
 [connection signal="health_updated" from="Interface" to="Interface/Bars/LifeBar" method="_on_Interface_health_updated"]

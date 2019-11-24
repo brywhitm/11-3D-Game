@@ -23,3 +23,8 @@ func animate_value(start, end):
 
 func update_count_text(value):
 	$Count/Number.text = str(round(value)) + '/' + str(maximum)
+
+
+func _on_FPSCharacter_health_changed(health):
+	maximum = health
+	emit_signal("maximum_changed", maximum)
